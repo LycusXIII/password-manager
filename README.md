@@ -44,6 +44,6 @@ password-manager/
 
 ## ⚠️ Disclaimer
 
-This program stores passwords in plain text (`data.txt`). For enhanced security, consider encrypting stored passwords using a library like `cryptography` or using a password manager.
+This program stores passwords in plain text (`data.txt`). For enhanced security, consider encrypting stored passwords using a library like `cryptography`.
 ---
 Feel free to contribute and enhance this project! 🚀
